@@ -1,14 +1,14 @@
 <a href="https://github.com/ltorres6">
   <img align="center" width="49%" src="./header.svg" /></a>
 <a href="https://open.spotify.com/">
-  <img align="center" width="48%" src="https://novatorem.ltorres6.vercel.app/api/spotify" /></a>
+  <img align="center" width="48%" src="https://novatorem-luis-torres-projects-8b9a3653.vercel.app/api/spotify" /></a>
 <a href="https://github.com/ltorres6">
   <img align="center" width="49%" src="./acti_comm.svg" /></a>
-<a href="https://github.com/jcs090218">
+<a href="https://github.com/ltorres6">
   <img align="center" width="49%" src="./repositories.svg" /></a>
-<a href="https://github.com/jcs090218">
+<a href="https://github.com/ltorres6">
   <img align="center" width="49%" src="./iso_calender.svg" /></a>
-<a href="https://github.com/jcs090218">
+<a href="https://github.com/ltorres6">
   <img align="center" width="49%" src="./issue_pr_lang.svg" /></a>
 
 <br/>
@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/jen-chieh-shen-17a02780/" target="_blank">
     <img alt="LinkedIn" src="https://www.jcs-profile.com/images/icons/linkedin.svg" width="5%"/></a>
   &nbsp;•&nbsp;
-  <a href="mailto:jcs090218@gmail.com" target="_blank">
+  <a href="mailto:luigibytes@gmail.com" target="_blank">
     <img alt="Mail" src="https://www.jcs-profile.com/images/icons/gmail.svg" width="5%"/></a>
   &nbsp;•&nbsp;
   <a href="https://www.jcs-profile.com/blog/" target="_blank">
