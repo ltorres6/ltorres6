@@ -81,9 +81,5 @@ Originally from New Mexico and now based in Chapel Hill, North Carolina, I have 
 I'm interested in collaborating on medical imaging processing, healthcare AI/ML applications, open-source scientific software development, and mentoring through programs like Google Summer of Code.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ltorres6&count_private=true&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!" />
 </div>
