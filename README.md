@@ -1,85 +1,42 @@
-# Luis Torres, PhD <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+# Luis Torres, PhD
 
-> Scientific Solutions Engineer
+Medical physicist turned scientific solutions engineer. I build imaging and machine-learning tools for medical research, and I help build open-source perfusion MRI software with [OSIPI](https://osipi.ismrm.org/).
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/luigibytes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://luigibytes.com/"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website"></a>
-  <a href="https://github.com/ltorres6"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://gitlab.com/luistorres2"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"></a>
-  <a href="https://scholar.google.com/citations?user=EfaQZA8AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
-  <img src="https://komarev.com/ghpvc/?username=ltorres6&style=for-the-badge&color=0e75b6" alt="Profile Views">
-</div>
+[Website](https://luigibytes.com/) · [LinkedIn](https://www.linkedin.com/in/luigibytes/) · [Google Scholar](https://scholar.google.com/citations?user=EfaQZA8AAAAJ&hl=en) · [GitLab](https://gitlab.com/luistorres2)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-</div>
+## About me
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
+I'm a Senior Scientific Solutions Engineer at [Flywheel](https://flywheel.io/). I work with pharma and academic research teams to turn their imaging questions into automated pipelines: curation, quality control, scan classification, de-identification, segmentation and quantitative analysis across MR, CT and PET. More and more of that work is deep-learning models and LLM tooling.
 
-Scientific Solutions Engineer at Flywheel, where I help researchers and healthcare organizations accelerate their work by streamlining medical imaging data management, automating research workflows, and enabling AI development. I hold a PhD in Medical Physics from the University of Wisconsin-Madison, where I previously specialized in advanced MRI techniques for lung imaging.
+Before Flywheel I did my PhD in Medical Physics at the University of Wisconsin–Madison, working on quantitative lung MRI: perfusion imaging, ultrashort echo time imaging, and motion-compensated reconstruction on GPUs.
 
-Originally from New Mexico and now based in Chapel Hill, North Carolina, I have a passion for exploring the intersection of technology and healthcare.
+I'm originally from New Mexico and now live in Chapel Hill, North Carolina.
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Technical Skills
+## What I'm working on
 
-### Programming Languages (order of proficiency)
+- **[osipy](https://github.com/OSIPI/osipy)**: OSIPI's open Python library for perfusion MRI analysis. I designed its architecture and lead the task force that builds it, with the goal of making perfusion imaging more reproducible. I also lead OSIPI's website and technical support task force, and mentored Google Summer of Code students in 2024 and 2025.
+- **Scan classification from physics**: working out what an MR, CT or PET series actually is from how it was acquired, not from what someone named it. I presented the open-source fw-classification package at ISMRM 2024.
+- **Machine learning for imaging**: putting 3D segmentation models into research pipelines, retraining them for new populations, and fine-tuning vision-language foundation models for imaging tasks.
+- **LLM tooling**: retrieval-augmented documentation assistants, agent pipelines in CI, and MCP servers that let agents work with scientific data platforms.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-</div>
+## Code you'll find here
 
-### Tools
+- **[pydemons](https://github.com/ltorres6/pydemons)**: the demons registration algorithm written on SigPy, so it runs on GPUs.
+- **[imoco](https://github.com/ltorres6/imoco)**: a Python version of iMoCo, the motion-compensated reconstruction method developed by Xucheng Zhu and the [PulmonaryMRI](https://github.com/PulmonaryMRI/imoco_recon) group.
+- **[ltorres6.github.io](https://github.com/ltorres6/ltorres6.github.io)**: the source for my website.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux/Unix">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Slurm-40AEF0?style=for-the-badge&logo=slurm&logoColor=white" alt="Slurm/Condor">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/ANTs-4b4b4b?style=for-the-badge" alt="Advanced Normalization Tools">
-  <img src="https://img.shields.io/badge/BART-4b4b4b?style=for-the-badge" alt="Berkeley Advanced Reconstruction Toolbox">
-</div>
+Most of my day-to-day code lives in Flywheel's GitLab, so the contribution graph here is quieter than my actual week.
 
-### Techniques
+## Toolbox
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Non--linear_Modeling-4b4b4b?style=for-the-badge" alt="Non-linear Modeling/Regression">
-  <img src="https://img.shields.io/badge/Image_Filtering-4b4b4b?style=for-the-badge" alt="Image Filtering/Denoising">
-  <img src="https://img.shields.io/badge/Image_Segmentation-4b4b4b?style=for-the-badge" alt="Image Segmentation">
-  <img src="https://img.shields.io/badge/Deconvolution_Methods-4b4b4b?style=for-the-badge" alt="Deconvolution Methods">
-  <img src="https://img.shields.io/badge/Histogram_Analysis-4b4b4b?style=for-the-badge" alt="Histogram Analysis">
-  <img src="https://img.shields.io/badge/Compressed_Sensing-4b4b4b?style=for-the-badge" alt="Iterative Compressed Sensing">
-  <img src="https://img.shields.io/badge/Non--Cartesian_Reconstruction-4b4b4b?style=for-the-badge" alt="Non-Cartesian Reconstruction">
-  <img src="https://img.shields.io/badge/Diffeomorphic_Registration-4b4b4b?style=for-the-badge" alt="Diffeomorphic Registration">
-</div>
+- **Languages**: Python (NumPy/CuPy, SigPy, PyTorch), C++/CUDA, MATLAB, R
+- **Imaging**: ITK, ANTs, BART, non-Cartesian and compressed-sensing reconstruction, registration, segmentation
+- **Infrastructure**: Docker, Kubernetes, GitLab CI/CD, Slurm and HTCondor, Azure, AWS, GCP
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-</div>
+## Outside of work
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Current Work
+I tinker with a homelab and with local, self-hosted voice assistants for Home Assistant, which explains some of the forks.
 
-- **Custom Solutions Development**:
-    - Medical Imaging Analysis: Building specialized computation workflows
-    - AI/ML in Healthcare: Machine learning models for medical applications
-- **LLM Solutions**: Developing intelligent text systems & knowledge interfaces
-- **Open Source Contributions**:
-    - **OSIPI** (Open-Source Initiative for Perfusion Imaging)
-        - Google Summer of Code Mentor
-        - Development of OSIPI python package for perfusion imaging
+## Get in touch
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-</div>
-
-## <img src="https://media.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="30"> Let's Connect
-
-I'm interested in collaborating on medical imaging processing, healthcare AI/ML applications, open-source scientific software development, and mentoring through programs like Google Summer of Code.
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!" />
-</div>
+I'm always glad to talk about medical image processing, machine learning in healthcare, and open-source scientific software, and I enjoy mentoring through programs like Google Summer of Code. LinkedIn is the best way to reach me.
