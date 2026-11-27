@@ -19,7 +19,7 @@
 
 Senior Scientific Solutions Engineer at Flywheel, where I help pharma and academic research teams turn their imaging questions into automated pipelines: curation, QC, scan classification, de-identification, segmentation and quantitative analysis across MR, CT and PET. These days that also means deep-learning models and a growing pile of LLM tooling. I hold a PhD in Medical Physics from the University of Wisconsin-Madison, where I specialized in advanced MRI techniques for lung imaging (and learned to love GPUs).
 
-Originally from New Mexico and now based in Chapel Hill, North Carolina, I have a passion for exploring the intersection of technology and healthcare. Off the clock you'll find me tinkering with my homelab and teaching old Amazon Echos to be local voice assistants, which explains a few of the forks around here.
+Originally from New Mexico and now based in Chapel Hill, North Carolina, I have a passion for exploring the intersection of technology and healthcare. Off the clock you'll find me tinkering with my homelab and 3D printing.
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Technical Skills
 
