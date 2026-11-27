@@ -27,8 +27,8 @@ Originally from New Mexico and now based in Chapel Hill, North Carolina, I have 
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/C%2B%2B%20%2F%20CUDA-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++/CUDA">
+  <img src="badges/pytorch.svg" alt="PyTorch">
+  <img src="badges/cpp-cuda.svg" alt="C++/CUDA">
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
@@ -43,23 +43,23 @@ Originally from New Mexico and now based in Chapel Hill, North Carolina, I have 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/ANTs-4b4b4b?style=for-the-badge" alt="Advanced Normalization Tools">
   <img src="https://img.shields.io/badge/BART-4b4b4b?style=for-the-badge" alt="Berkeley Advanced Reconstruction Toolbox">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI/CD">
-  <img src="https://img.shields.io/badge/Azure_|_AWS_|_GCP-0078D4?style=for-the-badge" alt="Azure, AWS, GCP">
-  <img src="https://img.shields.io/badge/ITK-4b4b4b?style=for-the-badge" alt="ITK and itk-wasm">
-  <img src="https://img.shields.io/badge/SigPy_|_CuPy-4b4b4b?style=for-the-badge" alt="SigPy and CuPy">
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code">
-  <img src="https://img.shields.io/badge/LLMs_|_RAG_|_MCP-4b4b4b?style=for-the-badge" alt="LLMs, RAG and MCP">
+  <img src="badges/kubernetes.svg" alt="Kubernetes">
+  <img src="badges/gitlab-ci-cd.svg" alt="GitLab CI/CD">
+  <img src="badges/azure-aws-gcp.svg" alt="Azure, AWS, GCP">
+  <img src="badges/itk-and-itk-wasm.svg" alt="ITK and itk-wasm">
+  <img src="badges/sigpy-and-cupy.svg" alt="SigPy and CuPy">
+  <img src="badges/claude-code.svg" alt="Claude Code">
+  <img src="badges/llms-rag-and-mcp.svg" alt="LLMs, RAG and MCP">
 </div>
 
 ### Techniques
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Deep--Learning_Segmentation-4b4b4b?style=for-the-badge" alt="Deep-learning segmentation">
-  <img src="https://img.shields.io/badge/Foundation--Model_Fine--Tuning-4b4b4b?style=for-the-badge" alt="Foundation-model fine-tuning">
-  <img src="https://img.shields.io/badge/Physics--Based_Scan_Classification-4b4b4b?style=for-the-badge" alt="Physics-based scan classification">
-  <img src="https://img.shields.io/badge/GPU_Acceleration-4b4b4b?style=for-the-badge" alt="GPU acceleration">
-  <img src="https://img.shields.io/badge/Motion_Correction-4b4b4b?style=for-the-badge" alt="Motion correction">
+  <img src="badges/deep-learning-segmentation.svg" alt="Deep-learning segmentation">
+  <img src="badges/foundation-model-fine-tuning.svg" alt="Foundation-model fine-tuning">
+  <img src="badges/physics-based-scan-classification.svg" alt="Physics-based scan classification">
+  <img src="badges/gpu-acceleration.svg" alt="GPU acceleration">
+  <img src="badges/motion-correction.svg" alt="Motion correction">
   <img src="https://img.shields.io/badge/Non--linear_Modeling-4b4b4b?style=for-the-badge" alt="Non-linear Modeling/Regression">
   <img src="https://img.shields.io/badge/Image_Filtering-4b4b4b?style=for-the-badge" alt="Image Filtering/Denoising">
   <img src="https://img.shields.io/badge/Image_Segmentation-4b4b4b?style=for-the-badge" alt="Image Segmentation">
