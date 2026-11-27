@@ -1,6 +1,6 @@
 # Luis Torres, PhD <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-> Senior Scientific Solutions Engineer · Medical Physicist · Open-source perfusion MRI nerd
+> Senior Scientific Solutions Engineer · Medical Physicist
 
 <div align="center">
   <a href="https://www.linkedin.com/in/luigibytes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
